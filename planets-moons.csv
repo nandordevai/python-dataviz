@@ -1,14 +1,14 @@
-name,diameter,distance,moons
-Mercury,4879,57.91,0
-Venus,12104,108.2,0
-Earth,12742,149.6,1
-Mars,6779,227.9,2
-Ceres,950,414.3,0
-Jupiter,139822,778.5,79
-Saturn,116464,1434,82
-Uranus,50724,2871,27
-Neptune,4495,49244,14
-Pluto,2374,5906.4,5
-Haumea,1960,6459.9,2
-Makemake,1434,6796.2,1
-Eris,2326,10152,1
+name,diameter,distance,moons,type
+Mercury,4879,57.91,0,planet
+Venus,12104,108.2,0,planet
+Earth,12742,149.6,1,planet
+Mars,6779,227.9,2,planet
+Ceres,950,414.3,0,dwarf planet
+Jupiter,139822,778.5,79,planet
+Saturn,116464,1434,82,planet
+Uranus,50724,2871,27,planet
+Neptune,4495,49244,14,planet
+Pluto,2374,5906.4,5,dwarf planet
+Haumea,1960,6459.9,2,dwarf planet
+Makemake,1434,6796.2,1,dwarf planet
+Eris,2326,10152,1,dwarf planet
